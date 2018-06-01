@@ -24,7 +24,7 @@ public class Generator {
   private Random rng;
 
   /**
-   * Recieves a list of words, a random number generator and size of array necessary as inputs then
+   * Receives a list of words, a random number generator and size of array necessary as inputs then
    * generates a randomized array of said length and returns.
    * <p>
    * @param words String of words to submit into generator.
